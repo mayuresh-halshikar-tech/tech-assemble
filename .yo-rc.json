@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "techAssemble",
+    "packageName": "com.techassemble",
+    "packageFolder": "com/techassemble",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.1",
+    "jwtSecretKey": "MjNjYzdiODQ0MDlmYWQ2Y2RlZjAyMjQ1MTk4ZWQyZTVlZjFiM2YzZjY2MGViYjNmODRmNjgyNTdlZjNhNzkzMWExMWM5YTViN2Q1ZDhhMjI0YTFjZmEwOTZiY2UzMTgxODZlYjFkZWRkNmVmMjI0Y2ExZDM4Y2RiZWRlMTFiMzU=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "mayuresh-halshikar-tech",
+  "repository-name": "tech-assemble"
+}
